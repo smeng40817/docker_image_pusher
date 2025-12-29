@@ -1,1 +1,1 @@
---platform=linux/arm64 debian:buster-slim
+debian:10

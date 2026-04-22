@@ -1,1 +1,1 @@
-arm32v7/ubuntu:laster
+ubuntu:laster

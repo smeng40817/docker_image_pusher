@@ -1,1 +1,1 @@
-ubuntu:laster
+arm32v7/ubuntu:20.04
